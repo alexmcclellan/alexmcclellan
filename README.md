@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion f
 
 ---
 
-## Cybersecurity Projects
+## Projects
 
 Here are some projects that showcase my skills in cybersecurity. (More coming soon!)
 
