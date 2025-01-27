@@ -1,6 +1,18 @@
 # Alex McClellan
 
-Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion for learning and applying my knowledge to solve real-world challenges. Below, you'll find an overview of my certifications and projects. Feel free to explore and connect with me!
+![Alex McClellan](profile.jpg) <!-- Replace "profile.jpg" with the actual file name -->
+
+Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion for learning and applying my knowledge to solve real-world challenges. Below, you'll find an overview of my education, certifications, and projects. Feel free to explore and connect with me!
+
+---
+
+## Education
+
+- **Bachelor of Science in Cybersecurity and Information Assurance**  
+  *Western Governors University (March 2024 - April 2025)*  
+
+  - **Bachelor of Science in Psychology**  
+  *Utah Valley University (August 2020 - December 2023)*  
 
 ---
 
@@ -8,8 +20,8 @@ Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion f
 
 Here are some projects that showcase my skills in cybersecurity. (More coming soon!)
 
-- [Active Directory Home Lab](https://github.com/alexmcclellan/LABURL)  
-  *A home lab to simulate and manage Active Directory environments.*
+- _**[Future Project Placeholder]**_  
+  _Description of the project. Replace with details once you create it._
 
 - _**[Future Project Placeholder]**_  
   _Description of the project. Replace with details once you create it._
@@ -41,3 +53,11 @@ I have earned several industry-recognized certifications to validate my skills:
   - ISC2 CCSP (Expected Mar 2025)  
 
 ---
+
+## Connect with Me
+
+Feel free to reach out or connect with me on LinkedIn!
+
+[![Alex McClellan | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alexandermcclellan/
