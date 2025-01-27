@@ -1,7 +1,5 @@
 # Alex McClellan
 
-![Alex McClellan](profile.jpg) <!-- Replace "profile.jpg" with the actual file name -->
-
 Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion for learning and applying my knowledge to solve real-world challenges. Below, you'll find an overview of my education, certifications, and projects. Feel free to explore and connect with me!
 
 ---
