@@ -1,49 +1,51 @@
-<h1>Alex McClellan<h1>
-  
-<h2>Cybersecurity Projects:</h2>
+# Alex McClellan
 
-  - [Active Directory Home Lab](https://github.com/alexmcclellan/LABURL)
+Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion for learning and applying my knowledge to solve real-world challenges. Below, you'll find an overview of my certifications and projects. Feel free to explore and connect with me!
 
-<h2>Certifications:</h2>
-- CompTIA ITF+
-- CompTIA A+
-- CompTIA Network+ 
-- CompTIA Security+ 
-- CompTIA Project+
-- CompTIA CySA+  (Expected Feb 2025)
-- CompTIA Network Vulnerability Assessment Professional
-- CompTIA Network Security Professional
-- CompTIA Security Analytics Professional
-- CompTIA PenTest+ (Expected Mar 2025)
-- CompTIA IT Operations Specialist
-- CompTIA Secure Infrastructure Specialist
-- ITIL 4 Foundation
-- LPI Linux Essentials
-- ISC2 SSCP
-- ISC2 CCSP (Expected Mar 2025)
+---
 
+## Cybersecurity Projects
 
+Here are some projects that showcase my skills in cybersecurity. (More coming soon!)
 
-<h2>Connect with me:</h2>
+- [Active Directory Home Lab](https://github.com/alexmcclellan/LABURL)  
+  *A home lab to simulate and manage Active Directory environments.*
 
-[<img align="left" alt="Alex McClellan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- _**[Future Project Placeholder]**_  
+  _Description of the project. Replace with details once you create it._
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+---
+
+## Certifications
+
+I have earned several industry-recognized certifications to validate my skills:
+
+- **CompTIA Certifications**  
+  - ITF+  
+  - A+  
+  - Network+  
+  - Security+  
+  - Project+  
+  - CySA+ (Expected Feb 2025)  
+  - PenTest+ (Expected Mar 2025)  
+  - Network Vulnerability Assessment Professional  
+  - Network Security Professional  
+  - Security Analytics Professional  
+  - IT Operations Specialist  
+  - Secure Infrastructure Specialist  
+
+- **Other Certifications**  
+  - ITIL 4 Foundation  
+  - LPI Linux Essentials  
+  - ISC2 SSCP  
+  - ISC2 CCSP (Expected Mar 2025)  
+
+---
+
+## Connect with Me
+
+Feel free to reach out or connect with me on LinkedIn!
+
+[![Alex McClellan | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/alexandermcclellan/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
