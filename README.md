@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity enthusiast with a passion f
 - **Bachelor of Science in Cybersecurity and Information Assurance**  
   *Western Governors University (March 2024 - April 2025)*  
 
-  - **Bachelor of Science in Psychology**  
+- **Bachelor of Science in Psychology**  
   *Utah Valley University (August 2020 - December 2023)*  
 
 ---
@@ -54,10 +54,24 @@ I have earned several industry-recognized certifications to validate my skills:
 
 ---
 
-## Connect with Me
+## Skills
 
-Feel free to reach out or connect with me on LinkedIn!
+Here are some of the technical and professional skills I bring to the table:
 
-[![Alex McClellan | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
+- **Cloud Computing**  
+  - Microsoft Azure: Network Security Groups, Firewalls, Virtual Machines, Virtual Networks  
+  - Cloud fundamentals and access control mechanisms  
 
-[linkedin]: https://www.linkedin.com/in/alexandermcclellan/
+- **Security and Networking**  
+  - Firewalls and Access Control Lists (ACLs)  
+  - SIEM tools, including Sentinel  
+  - Network security principles and traffic analysis  
+
+- **Operating Systems**  
+  - Windows (including Windows 11)  
+  - Linux  
+  - macOS  
+
+- **Identity and Access Management**  
+  - Active Directory (setup, management, and security)  
+  - File permissions and access controls  
