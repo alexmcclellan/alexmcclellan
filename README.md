@@ -41,11 +41,3 @@ I have earned several industry-recognized certifications to validate my skills:
   - ISC2 CCSP (Expected Mar 2025)  
 
 ---
-
-## Connect with Me
-
-Feel free to reach out or connect with me on LinkedIn!
-
-[![Alex McClellan | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/alexandermcclellan/
